@@ -6,4 +6,4 @@ Note that the names of the working directories are system specific
 
 Data Source: NOAA (https://www.ngdc.noaa.gov/stp/satellite/goes-r.html)
 
-contact priyanshjaswal13@gmail.com for any doubts
+Contact me at priyanshjaswal13@gmail.com for any doubts related to the .ipynb
